@@ -12,6 +12,7 @@ html,body{
 
 #header{
     background-color: rgb(1, 1, 65);
+    position: relative;
     height:80px;
     width: 100%;
 }
